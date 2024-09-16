@@ -1,0 +1,6 @@
+#Exclude the virtual environment folder from source control
+.venv/
+#Exclude the VS Code folder from source control
+.vscode/
+#Exclude __pycache__ from source control
+.__pycache__/
