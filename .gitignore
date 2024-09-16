@@ -2,5 +2,5 @@
 .venv/
 #Exclude the VS Code folder from source control
 .vscode/
-#Exclude __pycache__ from source control
-.__pycache__/
+#Exclude pycache from source control
+_pycache__/

@@ -10,9 +10,14 @@ This projects involves fetching data,processing it and finally writing the resul
 4. Created and activated project virtual environment. Refer to CREATE_VIRTUAL_ENVIRONMENT.md for detailed explanation.
 6. Created a project requirements file named requirements.txt. Refer to CREATE_VIRTUAL_ENVIRONMENT.md for detailed explanation.
 7. Install packages as indicated in requirements.txt. Refer to CREATE_VIRTUAL_ENVIRONMENT.md for detailed explanation.
+8. Create a python module.
 
 ## Code for Steps 2 and 3
 ```shell
 git clone GitHub URL
 ni .gitignore
+```
+## Code for Step 8
+```shell
+ni arnoldatchoe_analytics.py
 ```
